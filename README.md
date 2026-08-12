@@ -69,7 +69,7 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-Singh-S&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-Singh-S&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📌 Currently Learning
