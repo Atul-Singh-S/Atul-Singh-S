@@ -29,7 +29,7 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💰 <a href="https://github.com/YOUR_USERNAME/splitsquare">SplitSquare</a></h4>
+      <h4>💰 <a href="https://github.com/Atul-Singh-S/splitsquare">SplitSquare</a></h4>
       <p>A full-stack expense-splitting app with a debt-simplification algorithm that minimizes the number of transactions needed to settle group balances.</p>
     </td>
     <td width="50%" valign="top">
