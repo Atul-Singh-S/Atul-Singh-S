@@ -13,7 +13,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-### 🚀 About Me
+🚀 About Me
 
 I'm drawn to the intersection of **software engineering and applied AI** — I like taking an idea from a blank repo to a real, working product. Most of what I build sits somewhere between full-stack apps and AI-powered tools: things like retrieval-augmented generation systems, agents that can use tools, and practical utilities that solve an actual problem rather than just demo one.
 
@@ -24,7 +24,7 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-### 🛠️ Featured Projects
+ 🛠️ Featured Projects
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-### 🧰 Tech Stack
+ 🧰 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,git,vercel,docker,=dark" />
@@ -66,13 +66,13 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-Singh-S&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📌 Currently Learning
+ 📌 Currently Learning
 
 - Agentic AI systems (ReAct, tool use, LangGraph)
 - Full-stack deployment workflows (Vercel, Railway, Render)
