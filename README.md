@@ -59,7 +59,7 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,postgres,git,vercel,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,git,vercel,docker,=dark" />
 </p>
 
 <!-- Full icon list & names: https://skillicons.dev — just edit the i= param above -->
