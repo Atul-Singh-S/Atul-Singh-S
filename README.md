@@ -66,12 +66,6 @@ I'm drawn to the intersection of **software engineering and applied AI** — I l
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
- 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-Singh-S&theme=tokyonight&hide_border=true" />
-</p>
-
  📌 Currently Learning
 
 - Agentic AI systems (ReAct, tool use, LangGraph)
